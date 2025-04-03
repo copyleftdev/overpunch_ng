@@ -1,0 +1,10 @@
+warn-on-all-wildcard-imports = true
+disallowed-methods = [
+    # These rules shouldn't apply to test/benchmark code
+    { path = "std::option::Option::unwrap", reason = "use pattern matching or ? operator" },
+    { path = "std::result::Result::unwrap", reason = "use pattern matching or ? operator" },
+]
+enum-variant-name-threshold = 3
+too-many-arguments-threshold = 5
+cognitive-complexity-threshold = 15
+type-complexity-threshold = 250
