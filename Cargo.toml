@@ -4,10 +4,10 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Robust and extensible signed overpunch parsing and formatting for Rust Decimals"
-homepage = "https://github.com/copleftdev/overpunch_ng" # Example URL
-repository = "https://github.com/copleftdev/overpunch_ng" # Example URL
-keywords = ["overpunch", "cobol", "ibm", "mainframe", "decimal", "ebcdic"]
-categories = ["parsing", "value-formatting", "finance", "encoding"]
+homepage = "https://github.com/copyleftdev/overpunch_ng" # Example URL
+repository = "https://github.com/copyleftdev/overpunch_ng" # Example URL
+keywords = ["overpunch", "cobol", "mainframe", "decimal", "ebcdic"]
+categories = ["parsing", "value-formatting", "encoding"]
 readme = "README.md"
 
 [dependencies]
