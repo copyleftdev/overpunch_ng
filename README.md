@@ -77,11 +77,14 @@ impl Encoding for MyCustomEncoding {
         // Your implementation here
     }
 }
-```
 
 ## License
 
-This project is licensed under [LICENSE NAME] - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Maintained by [copyleftdev](https://github.com/copyleftdev).
 
 ## Contributing
 
